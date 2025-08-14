@@ -31,5 +31,12 @@ Cada projeto e experiência nessa área me desafia a **encontrar novas soluçõe
 - 💡 Criar soluções criativas e eficientes para desafios reais  
 
 ---
+# 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=liviaborges27&show_icons=true&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviaborges27&layout=compact&theme=radical" height="150">
+</p>
+
 
 
