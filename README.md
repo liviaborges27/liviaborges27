@@ -3,7 +3,7 @@
 <h1 align="center">✨ Olá, eu sou a Lívia Borges Matos ✨</h1>
 
 <p align="center">
-  📍 Sertãozinho - Brasil • 🎂 16 anos  
+   Sertãozinho - Brasil •  16 anos  
 </p>
 
 ---
@@ -20,7 +20,7 @@ Tenho curiosidade e entusiasmo em explorar diferentes linguagens e ferramentas, 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </p>
 
-Cada projeto e experiência nessa área me desafia a **encontrar novas soluções para problemas** e ampliar meu conhecimento, fortalecendo minha jornada como desenvolvedora 🚀.
+Cada projeto e experiência nessa área me desafia a **encontrar novas soluções para problemas** e ampliar meu conhecimento, fortalecendo minha jornada como desenvolvedora de sistemas🚀.
 
 ---
 
@@ -32,6 +32,4 @@ Cada projeto e experiência nessa área me desafia a **encontrar novas soluçõe
 
 ---
 
-
-💬 *"A cada linha de código, nasce uma nova possibilidade de transformar o mundo."*
 
