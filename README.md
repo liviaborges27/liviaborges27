@@ -1,5 +1,4 @@
-<!-- Banner opcional -->
-![Banner](https://i.imgur.com/dxvDz9m.png)
+
 
 <h1 align="center">✨ Olá, eu sou a Lívia Borges Matos ✨</h1>
 
@@ -33,14 +32,6 @@ Cada projeto e experiência nessa área me desafia a **encontrar novas soluçõe
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical" height="150">
-</p>
-
----
 
 💬 *"A cada linha de código, nasce uma nova possibilidade de transformar o mundo."*
 
