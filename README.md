@@ -3,7 +3,7 @@
 <h1 align="center">✨ Olá, eu sou a Lívia Borges Matos ✨</h1>
 
 <p align="center">
-   Sertãozinho - Brasil •  16 anos  
+   Sertãozinho - Brasil •  17 anos  
 </p>
 
 ---
