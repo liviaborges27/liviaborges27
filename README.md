@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:livia.matos2721@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -50,14 +50,13 @@ Atualmente estou cursando o último ano do **Técnico em Desenvolvimento de Sist
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liviaborges27&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Lívia" height="180">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviaborges27&layout=compact&theme=radical&hide_border=false" alt="Linguagens mais usadas" height="180">
-</p>
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liviaborges27&theme=radical" alt="GitHub Streak" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=liviaborges27&show_icons=true&theme=radical" alt="Estatísticas de Lívia" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviaborges27&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 
 ---
