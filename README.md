@@ -1,4 +1,4 @@
-<h1 align="center">✨ Olá, eu sou a Lívia Borges Matos ✨</h1>
+<h1 align="center">Olá, eu sou a Lívia Borges Matos</h1>
 
 <p align="center">
   <strong>Desenvolvedora de Sistemas em Formação | Enthusiast de Robótica (FRC) </strong>
@@ -51,8 +51,13 @@ Atualmente estou cursando o último ano do **Técnico em Desenvolvimento de Sist
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liviaborges27&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviaborges27&layout=compact&theme=radical" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=liviaborges27&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Lívia" height="180">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviaborges27&layout=compact&theme=radical&hide_border=false" alt="Linguagens mais usadas" height="180">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liviaborges27&theme=radical" alt="GitHub Streak" height="180">
 </p>
 
 ---
