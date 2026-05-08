@@ -49,17 +49,18 @@ Atualmente estou cursando o último ano do **Técnico em Desenvolvimento de Sist
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
----
-
-## 📊 Estatísticas do GitHub
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liviaborges27&show_icons=true&theme=radical" alt="Estatísticas de Lívia" />
+  <img src="https://github-readme-stats.vercel.app/api?username=liviaborges27&show_icons=true&theme=radical&rank_icon=github" alt="Status de Lívia" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviaborges27&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liviaborges27&theme=radical" alt="Streak de Lívia" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviaborges27&layout=compact&theme=radical&hide_border=false" alt="Linguagens mais usadas" />
 </p>
 
 ---
