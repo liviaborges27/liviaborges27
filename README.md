@@ -11,6 +11,9 @@
   <a href="mailto:livia.matos2721@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <p align="center">
+  <strong>📧 Contato: livia.matos2721@gmail.com </strong>
+</p>
 </p>
 
 <p align="center">
